@@ -2,7 +2,7 @@
   "name": "parcel-project-template",
   "version": "2.0.0",
   "description": "",
-  "homepage": "https://goitacademy.github.io/parcel-project-template",
+  "homepage": "https://YPV0.github.io/goit-js-hw-08",
   "scripts": {
     "start": "parcel src/*.html --no-cache",
     "build": "parcel build src/*.html --public-url /goit-js-hw-08/ --no-cache"
@@ -25,6 +25,7 @@
   },
   "devDependencies": {
     "@parcel/transformer-sass": "^2.6.0",
+    "gh-pages": "^5.0.0",
     "parcel": "^2.6.0",
     "parcel-reporter-clean-dist": "^1.0.4",
     "posthtml-include": "^1.7.4"
